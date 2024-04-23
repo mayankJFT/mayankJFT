@@ -17,7 +17,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/mayankJFT/mynkchaudhry/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/mayankJFT/mayankJFT/output/snake.svg" alt="Snake animation" />
 
 ###
 
@@ -25,6 +25,8 @@
 </div>
 
 ###
+<div align="center">
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
@@ -32,7 +34,8 @@
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
+
 ---
 [![](https://visitcount.itsvg.in/api?id=mayankJFT&icon=2&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+</div>
